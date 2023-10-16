@@ -7,9 +7,7 @@
         let lineItemObject = [];
         let sixDigitBinNumberArr = new Array();
         let sevenDigitBinNumberArr = new Array();
-        let mainBinNumberArr = new Array();
-        let sortedSixDigitArr = new Array();
-        let sortedSevenDigitArr = new Array();
+      
         let lineItemSortedArr = new Array();
   
         let QOHBaseUnit = 0;
